@@ -2,5 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/833bed88-4796-4324-9ecd-3123f59a652c.svg)](https://wakatime.com/@833bed88-4796-4324-9ecd-3123f59a652c)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioTambu&theme=nord&hide=CSS&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 Time Calculated From 20/08/2023
