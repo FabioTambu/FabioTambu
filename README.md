@@ -2,6 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/833bed88-4796-4324-9ecd-3123f59a652c.svg)](https://wakatime.com/@833bed88-4796-4324-9ecd-3123f59a652c)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FabioTambu)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FabioTambu count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 Time Calculated From 20/08/2023
